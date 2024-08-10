@@ -14,14 +14,14 @@ Background Processing: Uses Bull for handling background jobs, specifically for 
 
 
 <b>NestJS:</b> A progressive Node.js framework for building efficient, reliable, and scalable server-side applications.
-MongoDB: A NoSQL database used for storing user data and refresh tokens.
-Redis: An in-memory data structure store used for job queue processing.
-Bull: A queue system for handling background jobs.
-JWT: JSON Web Tokens for secure user authentication.
+<b>MongoDB:</b> A NoSQL database used for storing user data and refresh tokens.
+<b>Redis:</b> An in-memory data structure store used for job queue processing.
+<b>Bull:</b> A queue system for handling background jobs.
+<b>JWT:</b> JSON Web Tokens for secure user authentication.
 
 
-##Installation
-Prerequisites
-Node.js (v18 or later)
-MongoDB
+<h2>Installation</h2>
+Prerequisites, 
+Node.js, 
+MongoDB, 
 Redis
